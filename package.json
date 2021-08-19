@@ -1,0 +1,17 @@
+{
+  "name": "exn-core",
+  "version": "1.0.0",
+  "description": "common function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exn-core",
+    "javascript",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Ryan",
+  "license": "ISC"
+}
